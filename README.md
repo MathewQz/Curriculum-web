@@ -1,2 +1,2 @@
-# trakaaa
+# Curriculum
 intento de currículum
